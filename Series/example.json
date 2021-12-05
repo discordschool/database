@@ -1,0 +1,26 @@
+{
+    "title": "Example Series",
+    "filter": [
+        "Moderation",
+        "Management"
+    ],
+    "description": "This is the description for a series, this goes right below the header on the main content slice!",
+    "takeaway": "This is a takeaway for the goals and takeaways section, aren't I a pretty little line of text? ;)",
+    "slug": "/example-series",
+    "topics": [
+        "Philosophy",
+        "Leadership",
+        "Mental Health"
+    ],
+    "contained articles": [
+      "/example.md",
+      "/example2.md",
+      "/example3.md"
+    ],
+    "related articles": {
+      "Example 1": "/articles/example1",
+      "Example 2": "/articles/example2",
+      "Example 3": "/articles/example3"
+    },
+    "publishing date": "04/12/2021"
+}

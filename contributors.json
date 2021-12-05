@@ -1,0 +1,32 @@
+[
+    {
+    "name": "Jet",
+    "icon": "Jet.png",
+    "role": "Editor-in-chief"
+    },
+    {
+    "name": "Erica",
+    "icon": "Erica.png",
+    "role": "Community Manager"
+    },
+    {
+    "name": "Nico",
+    "icon": "Nico.png",
+    "role": "Developer"
+    },
+    {
+    "name": "Johny",
+    "icon": "Johny.png",
+    "role": "Developer"
+    },
+    {
+    "name": "Seren",
+    "icon": "Seren.png",
+    "role": "Editor"
+    },
+    {
+    "name": "Drew",
+    "icon": "Drew.png",
+    "role": "Writer"
+    }
+]
