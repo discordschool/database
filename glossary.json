@@ -1,11 +1,11 @@
 {
     "ModerationPhrases": {
-        "Proportional Response": "To return a response that is considered equal to the provocation that triggered it.\n\ni.e. Banning someone for server raiding."
+        "Proportional_Response": "To return a response that is considered equal to the provocation that triggered it.\n\ni.e. Banning someone for server raiding."
     },
     "DiscordTerminology": {
-        "Example Term 1": "You're a stinky little glossary term."
+        "Example_Term_1": "You're a stinky little glossary term."
     },
     "Other": {
-        "Example Term 2": "You're a stinky little glossary term."
+        "Example_Term_2": "You're a stinky little glossary term."
     }
 }

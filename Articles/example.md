@@ -12,7 +12,9 @@
         "Leadership",
         "Mental Health"
     ],
-    "date published": "04/12/2021"
+    "author": "Drew",
+    "editor": "Jet",
+    "date_published": "04/12/2021"
 
 ------>
 

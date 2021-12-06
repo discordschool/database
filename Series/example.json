@@ -12,15 +12,15 @@
         "Leadership",
         "Mental Health"
     ],
-    "contained articles": [
+    "contained_articles": [
       "/example.md",
       "/example2.md",
       "/example3.md"
     ],
-    "related articles": {
+    "related_articles": {
       "Example 1": "/articles/example1",
       "Example 2": "/articles/example2",
       "Example 3": "/articles/example3"
     },
-    "publishing date": "04/12/2021"
+    "publishing_date": "04/12/2021"
 }
